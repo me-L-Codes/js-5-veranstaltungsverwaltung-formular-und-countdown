@@ -1,16 +1,7 @@
-# JS_5
-
-
-
-#to-do's: 
-- Text unterhalb der Teilprüfugn anpassen (Worum ging es im groben)
-  
-
-
-# Teilprüfung 5 – XXXXXXXXXXXXX
+# Teilprüfung 5 – Veranstaltungsverwaltung mit Validierung und Countdown
 
 Dies ist eine Prüfungsaufgabe aus meiner Weiterbildung zur Webentwicklerin.  
-Ziel war es, XXXXXXXXXXXXXXXXXXXXXXXXXXX
+Ziel war es, ein komplexeres Formular mit JavaScript zu validieren, dynamische DOM-Manipulationen umzusetzen und mit Datum/Zeit zu arbeiten. Dabei wurde insbesondere das Arbeiten mit Arrays, EventListenern, regulären Ausdrücken zur Eingabeprüfung sowie das Berechnen und Anzeigen von Zeitdifferenzen geübt.
 
 
 
